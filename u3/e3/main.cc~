@@ -1,0 +1,17 @@
+#include "printers.hh"
+#include "diagonal_printer.hh"
+#include "standard_printer.hh"
+#include <iostream>
+#include <string>
+
+int main() {
+	DiagonalPrinter diag("first", "last", std::cout);
+	DiagonalPrinter diag2();
+	Printers printers;
+	printers.add("Diagonal", &diag);
+	printers.add("Diagonal2", &diag2);
+	(printers["Diagonal"])("Diagonal string yeah!");
+	(printers[(std::string) &diag2])("Awesome!");
+	
+	return 0;
+}

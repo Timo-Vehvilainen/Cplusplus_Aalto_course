@@ -1,0 +1,71 @@
+*** Creating two golf players..
+*** Printing out the players' information..
+Player information:
+Id: 0
+Name: Petteri Koivumaki
+Gender: male
+Handicap: -7.5
+Player information:
+Id: 1
+Name: Raimo Nikkila
+Gender: male
+Handicap: 54
+*** Reading a golf course from a file..
+*** Creating two golf score cards, one for each player..
+*** Updating the players' results on the score cards..
+Total points for Petteri Koivumaki: 11
+Total points for Raimo Nikkila: 28
+*** Printing out the full score statistics..
+Player information:
+Id: 0
+Name: Petteri Koivumaki
+Gender: male
+Handicap: -7.5
+Course: Sarfvik
+Tee color: white
+Hole 1: 5/10/7/0
+Hole 2: 4/6/6/0
+Hole 3: 3/18/3/1
+Hole 4: 4/4/10/0
+Hole 5: 3/16/6/0
+Hole 6: 4/14/4/1
+Hole 7: 5/2/4/3
+Hole 8: 4/12/5/0
+Hole 9: 4/8/5/1
+Hole 10: 4/3/6/0
+Hole 11: 3/9/8/0
+Hole 12: 4/15/7/0
+Hole 13: 4/13/6/0
+Hole 14: 5/5/8/0
+Hole 15: 4/7/4/2
+Hole 16: 4/17/4/1
+Hole 17: 5/1/5/2
+Hole 18: 3/11/5/0
+Total points: 11
+Player information:
+Id: 1
+Name: Raimo Nikkila
+Gender: male
+Handicap: 54
+Course: Sarfvik
+Tee color: red
+Hole 1: 5/10/-/0
+Hole 2: 4/6/9/0
+Hole 3: 3/18/3/4
+Hole 4: 4/4/12/0
+Hole 5: 3/16/6/2
+Hole 6: 4/14/7/2
+Hole 7: 5/2/9/1
+Hole 8: 4/12/10/0
+Hole 9: 4/8/7/2
+Hole 10: 4/3/5/4
+Hole 11: 3/9/9/0
+Hole 12: 4/15/-/0
+Hole 13: 4/13/6/3
+Hole 14: 5/5/8/2
+Hole 15: 4/7/6/3
+Hole 16: 4/17/6/3
+Hole 17: 5/1/8/2
+Hole 18: 3/11/9/0
+Total points: 28
+*** All done, exiting..

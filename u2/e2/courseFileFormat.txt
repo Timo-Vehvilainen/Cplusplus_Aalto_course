@@ -1,0 +1,27 @@
+ <Golf course name>
+
+<Hole 1 Par> <Hole 1 HCP>
+
+<Hole 2 Par> <Hole 2 HCP>
+
+.
+.
+.
+
+<Hole 18 par> <Hole 18 HCP>
+
+<Men red tee CR> <Men red tee slope>
+
+<Men blue tee CR> <Men blue tee slope>
+
+<Men yellow tee CR> <Men yellow tee slope>
+
+<Men white tee CR> <Men white tee slope>
+
+<Women red tee CR> <Women red tee slope>
+
+<Women blue tee CR> <Women blue tee slope>
+
+<Women yellow tee CR> <Women yellow tee slope>
+
+<Women white tee CR> <Women white tee slope>

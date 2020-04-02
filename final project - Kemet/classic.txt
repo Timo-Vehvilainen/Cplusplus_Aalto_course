@@ -1,0 +1,27 @@
+0 0 1 2 Sphinx
+0 4 1 2 Anubis
+0 5 1 2 Pharaoh
+0 6 1 2 Anubis
+0 7 1 1 Pyramid
+1 2 1 1 Pyramid
+2 3 0 2 Pyramid
+3 0 1 0 Pyramid
+3 2 0 2 Pyramid
+3 4 1 0 Scarab
+3 5 1 1 Scarab
+3 7 1 1 Pyramid
+3 9 0 3 Pyramid
+4 0 1 1 Pyramid
+4 2 0 3 Pyramid
+4 4 0 3 Scarab
+4 5 0 0 Scarab
+4 7 1 0 Pyramid
+4 9 0 2 Pyramid
+5 6 1 1 Pyramid
+6 7 0 0 Pyramid
+7 2 0 3 Pyramid
+7 3 0 0 Anubis
+7 4 0 0 Pharaoh
+7 5 0 0 Anubis
+7 9 0 0 Sphinx
+
